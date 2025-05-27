@@ -6,9 +6,9 @@ This project aims to predict monthly user churn on the Waze app, a free navigati
 ## **Data Understanding**
 The dataset used in this project (`waze_dataset.csv`), contains synthetic data created in partnership with Waze. The dataset consists of 14,299 customer records and includes features related to user activity, such as:
 
-Number of drives: Total number of drives made by the user in a month.
-Sessions: The number of app sessions per user in a month.
-Activity days: Number of days the user has been active within a month.
+* Number of drives: Total number of drives made by the user in a month.
+* Sessions: The number of app sessions per user in a month.
+* Activity days: Number of days the user has been active within a month.
 
 Refer to `meta_data_waze_dataset.txt` for detailed meta data.
 
